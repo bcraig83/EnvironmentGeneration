@@ -3,7 +3,7 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 Disable-InternetExplorerESC
  
-cinst sublimetext3
+cinst sublimetext2
 cinst listary
 cinst googlechrome
 cinst 7zip
