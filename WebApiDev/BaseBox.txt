@@ -1,7 +1,9 @@
 Update-ExecutionPolicy Unrestricted
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+Set-TaskbarOptions -Size Small -Lock -Dock Left
 Enable-RemoteDesktop
 Disable-InternetExplorerESC
+Disable-UAC
 
 cinst sublimetext2
 cinst listary
