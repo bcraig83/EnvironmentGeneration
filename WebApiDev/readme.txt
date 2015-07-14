@@ -1,0 +1,1 @@
+Take a snapshot of this box once Visual Studio has been installed.

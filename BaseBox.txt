@@ -1,0 +1,16 @@
+Update-ExecutionPolicy Unrestricted
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+Enable-RemoteDesktop
+Disable-InternetExplorerESC
+ 
+cinst sublimetext2
+cinst listary
+cinst googlechrome
+cinst 7zip
+cinst teamviewer
+cinst sourcetree
+cinst googledrive
+cinst skype
+cinst vagrant
+ 
+Install-WindowsUpdate -AcceptEula

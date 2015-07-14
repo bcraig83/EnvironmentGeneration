@@ -7,7 +7,7 @@ cinst sublimetext2
 cinst listary
 cinst googlechrome
 cinst 7zip
-cinst teamviewer
 cinst sourcetree
- 
+cinst rdcman
+
 Install-WindowsUpdate -AcceptEula

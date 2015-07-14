@@ -2,4 +2,4 @@
 
 cinst boxstarter -y
 
-START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/bcraig83/EnvironmentGeneration/master/BaseBox.txt
+START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/bcraig83/EnvironmentGeneration/master/WebApiDev/BaseBox.txt
