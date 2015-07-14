@@ -3,6 +3,7 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 Disable-InternetExplorerESC
  
+cinst git
 cinst sublimetext2
 cinst listary
 cinst googlechrome
@@ -12,5 +13,8 @@ cinst sourcetree
 cinst googledrive
 cinst skype
 cinst vagrant
+cinst evernote
+cinst autohotkey
+cinst phraseexpress
  
 Install-WindowsUpdate -AcceptEula

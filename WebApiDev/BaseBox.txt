@@ -8,5 +8,6 @@ cinst listary
 cinst googlechrome
 cinst 7zip
 cinst visualstudio2013ultimate
+cinst resharper
 
 Install-WindowsUpdate -AcceptEula
