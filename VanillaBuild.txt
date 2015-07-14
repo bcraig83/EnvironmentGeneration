@@ -8,5 +8,6 @@ cinst listary
 cinst googlechrome
 cinst 7zip
 cinst teamviewer
+cinst sourcetree
  
 Install-WindowsUpdate -AcceptEula
